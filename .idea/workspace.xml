@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7eb452-6403-47e3-a663-992355568947" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Condições em Python/Ex.044_Gerenciador_de_Pagamentos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condições em Python/Aula.010py.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condições em Python/Aula.010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estruturas de Repetição - Laços/Aula.013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estruturas de Repetição/Aula.013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Condições em Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

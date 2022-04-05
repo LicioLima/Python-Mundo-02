@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c974f43-0d84-461d-a8dd-36e0f65bd513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Estruturas de Repetição.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.047_Contagem_de_Pares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex.046_Contagem_Regressiva.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.046_Contagem_Regressiva.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tentativa dos fogos de Artifícios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/ESTUDOS/ADS/3º Período/Projeto 3" />
   </component>
   <component name="RunManager" selected="Python.Ex.047_Contagem_de_Pares">
     <configuration name="Ex.046_Contagem_Regressiva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

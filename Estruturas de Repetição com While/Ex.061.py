@@ -1,1 +1,0 @@
-nois = int(input()

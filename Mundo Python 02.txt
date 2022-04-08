@@ -11,4 +11,4 @@
 - Estruturas de repetição ou laço em python é escrito assim: FOR (laço) "i ou alguma variável" IN (no) RANGE(intervalo) (1, 10): |for i in range(1,10):|
 - É bom usar a palavra (i) para sinalizar uma interação, seja em estrtura condicional ou laço
 - Já para a estrutura de repetição usando "WHILE", é ideal quando você não tem noção do limite de ações a serem executadas, diferente do "FOR".
--
+- Se uma mesma variável tem a mesma atribuição, é possível colocar o valor no final: Exemplo cont = soma = dev = 0

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2a7eb452-6403-47e3-a663-992355568947" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo Python 02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo Python 02.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +46,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Ex.065_Maior_e_Menor_Valores">
-    <configuration name="Ex.061_Progressão_Aritmética" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula.015">
+    <configuration name="Aula.015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos-em-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estruturas de Repetição com While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interrompendo Repetições com While" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estruturas de Repetição com While/Ex.061_Progressão_Aritmética.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interrompendo Repetições com While/Aula.015.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula.015" />
         <item itemvalue="Python.Ex.065_Maior_e_Menor_Valores" />
         <item itemvalue="Python.Ex.064_Tratando_Vários_Valores" />
         <item itemvalue="Python.Ex.063_Sequência de Fibonacci" />
         <item itemvalue="Python.Ex.062_Super_Progressão_Aritmética" />
-        <item itemvalue="Python.Ex.061_Progressão_Aritmética" />
       </list>
     </recent_temporary>
   </component>

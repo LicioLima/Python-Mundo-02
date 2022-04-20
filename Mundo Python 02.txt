@@ -1,16 +1,16 @@
 
 
-- Você nunca começa uma estrutura condicional com "ELSE" ou "ELIF", sempre com "IF"
-- É possível que uma estrutura condicional tenha apenas o "IF"
-- Quando se tem só "IF", é uma estrutura de condicional SIMPLES
-- Quando se tem uma estrutura condicional com "IF" e "ELSE", é uma estrutura condicional composta
+- Você nunca começa uma estrutura condicional com "else" ou "elif", sempre com "if"
+- É possível que uma estrutura condicional tenha apenas o "if"
+- Quando se tem só "if", é uma estrutura de condicional SIMPLES
+- Quando se tem uma estrutura condicional com "if" e "else", é uma estrutura condicional composta
 - Em python o (\n) serve para quebrar linha
 - Na formatação do código o {:^O número de espaços que irá retornar} + .format, irá centralizar o print
 - para formatação simples de print o melhor é: print(f'O que irá ser executado {variável} mais alguma coisa') essa formatação se chamada FStrings
 - Seguindo a mesma lógica do tópico acima, se você cologar o sinal de igual {:= A qtd citada aqui irá criar um traçejado} Exemplo: {:=10} ==================== 
-- Estruturas de repetição ou laço em python é escrito assim: FOR (laço) "i ou alguma variável" IN (no) RANGE(intervalo) (1, 10): |for i in range(1,10):|
+- Estruturas de repetição ou laço em python é escrito assim: for(LAÇO) "i ou alguma variável" in(NO) range(INTERVALO) (1, 10): |for i in range(1,10):|
 - É bom usar a palavra (i) para sinalizar uma interação, seja em estrtura condicional ou laço
-- Já para a estrutura de repetição usando "WHILE", é ideal quando você não tem noção do limite de ações a serem executadas, diferente do "FOR".
+- Já para a estrutura de repetição usando "while", é ideal quando você não tem noção do limite de ações a serem executadas, diferente do "for".
 - Se uma mesma variável tem a mesma atribuição, é possível colocar o valor no final: Exemplo cont = soma = dev = 0
-- A estrutura de WHILE + True gerará o famoso LOOPING INFINITO
+- A estrutura de while True: gerará o famoso LOOPING INFINITO
 - Quando você estipula um valor no contador para parar, esse tipo de estrutura é conhecida como FLAG, fazendo alusão a bandeira na linha de chegada!
